@@ -1,0 +1,41 @@
+Wins,Matches,Discord tag,R,Commander,Time Zone,Adversaire 1,Score,,Adversaire 2,Score,,Adversaire 3,Score,,MW%,OMW%,# G,GW,GW%
+1,3,AndenTheGamer#0332,79,"Niv-Mizzet, Parun",GMT +1,Arkinul#5162,2,1,Dozer32#6928,1,2,Scales96#6411,1,2,33,56%,9,4,44%
+0,3,Arkinul#5162,79,Old Stickfingers,GMT +1,MathemaTiGer128#0607,1,2,AndenTheGamer#0332,1,2,Kalitas#5029,0,2,0,33%,8,2,25%
+1,3,artillect#8709,79,"Elesh Norn, Mother of Machines",GMT -7,melamed#6695,0,2,BirthingPodder#6911,0,2,Myriad58#5983,2,1,33,44%,7,2,29%
+1,3,BirthingPodder#6911,79,"Korvold, Fae-Cursed King",GMT -4,artillect#8709,2,0,Freyalisër#3719,0,2,Hissp#8379,0,2,33,78%,6,2,33%
+1,3,bratstva45 #7456,79,"Golos, Tireless Pilgrim",GMT -8,OlafTheMoose#5751,2,0,MatmaTaTor#9428,0,2,Zenen#8628,1,2,33,56%,7,3,43%
+1,3,Coft#0794,79,"Ob Nixilis, the Adversary",GMT +1,grimstien1#5556,2,1,themudman#8734,1,2,MatthieuCrnll(Hobbrick)#6553,1,2,33,67%,9,4,44%
+2,3,Distant#5141,79,"Baral, Chief of Compliance",GMT -5,Zenen#8628,2,0,Humblerbee#5050,2,1,MatmaTaTor#9428,1,2,67,56%,8,5,63%
+3,3,Dozer32#6928,79,"Sythis, Harvests Hand",GMT -5,AndenTheGamer#0332,2,1,Zenen#8628,2,1,OlafTheMoose#5751,2,0,100,33%,8,6,75%
+3,3,Dracosinus#5200,79,"Kinnan, Bonder Prodigy",GMT +1,SalTheBard#4280,2,0,grimstien1#5556,2,1,MidasRight#22350,2,0,100,11%,7,6,86%
+0,2,firewolf#6439,79,"Chatterfang, Squirrel General",GMT +1,jsc6518#1318,,,Lordofatlantis33#26519,1,2,LordKaiju_2#1660,1,2,0,44%,6,2,33%
+3,3,Freyalisër#3719,79,"Esika, God of the Tree",GMT +1,BirthingPodder#6911,2,0,LordKaiju_2#1660,2,0,jsc6518#1318,2,1,100,33%,7,6,86%
+0,3,grimstien1#5556,79,"Jetmir, Nexus of Revels",GMT -5,Dracosinus#5200,1,2,Coft#0794,1,2,Luke99HS#92074,0,2,0,56%,8,2,25%
+0,3,HAzor#3981,79,"Ral, Storm Conduit",GMT -6,MatthieuCrnll(Hobbrick)#6553,0,2,Skull (romain)#3826,0,2,themudman#8734,1,2,0,100%,7,1,14%
+3,3,Hissp#8379,79,"Sythis, Harvests Hand",GMT -5,Myriad58#5983,2,0,jsc6518#1318,2,1,BirthingPodder#6911,2,0,100,11%,7,6,86%
+1,3,Humblerbee#5050,79,Prime Speaker Vannifar,GMT -8,Distant#5141,1,2,Iron#3684,2,0,inkheart#1346,1,2,33,33%,8,4,50%
+1,3,inkheart#1346,79,"Ajani, Sleeper Agent",GMT -6,MatmaTaTor#9428,1,2,Martianlegacy#4781,0,2,Humblerbee#5050,2,1,33,67%,8,3,38%
+0,3,Iron#3684,79,"Meria, Scholar of Antiquity",GMT -5,Humblerbee#5050,0,2,Jollto#6429,0,2,Martianlegacy#4781,0,2,0,56%,6,0,0%
+2,3,Jollto#6429,79,"Elesh Norn, Mother of Machines",GMT +1,Iron#3684,2,0,Myriad58#5983,2,1,melamed#6695,1,2,67,33%,8,5,63%
+0,2,jsc6518#1318,79,"Kinnan, Bonder Prodigy",GMT -5,Hissp#8379,1,2,firewolf#6439,,,Freyalisër#3719,1,2,0,67%,6,2,33%
+1,3,Kalitas#5029,79,Acererak the Archlich,GMT +1,Skull (romain)#3826,1,2,Scales96#6411,1,2,Arkinul#5162,2,0,33,56%,8,4,50%
+2,3,LJ347#9371,79,"Atraxa, Grand Unifier",GMT -7,TitanLord#4251,0,2,SalTheBard#4280,2,0,smurph#7256,2,0,67,22%,6,4,67%
+2,3,LordKaiju_2#1660,79,"Raffine, Scheming Seer",GMT -8,Freyalisër#3719,0,2,TitanLord#4251,2,1,firewolf#6439,2,1,67,56%,8,4,50%
+2,3,Lordofatlantis33#26519,79,"Yawgmoth, Thran Physician",GMT -5,firewolf#6439,2,1,smurph#7256,2,1,TitanLord#4251,0,2,67,22%,8,4,50%
+1,3,Luke99HS#92074,79,"Atraxa, Grand Unifier",GMT +1,MidasRight#22350,0,2,MatthieuCrnll(Hobbrick)#6553,1,2,grimstien1#5556,2,0,33,44%,7,3,43%
+2,3,Martianlegacy#4781,79,"Tazri, Beacon of Unity",GMT +1,inkheart#1346,2,0,melamed#6695,1,2,Iron#3684,2,0,67,44%,7,5,71%
+1,3,MathemaTiGer128#0607,79,Old Stickfingers,GMT +1,themudman#8734,0,2,Arkinul#5162,2,1,Skull (romain)#3826,1,2,33,67%,8,3,38%
+3,3,MatmaTaTor#9428,79,"Nissa, Ascended Animist",GMT +1,bratstva45 #7456,2,0,inkheart#1346,2,1,Distant#5141,2,1,100,44%,8,6,75%
+3,3,MatthieuCrnll(Hobbrick)#6553,79,"Adeline, Resplendent Cathar",GMT +1,Luke99HS#92074,2,1,HAzor#3981,2,0,Coft#0794,2,1,100,22%,8,6,75%
+3,3,melamed#6695,79,"Atraxa, Grand Unifier",GMT -8,Martianlegacy#4781,2,1,artillect#8709,2,0,Jollto#6429,2,1,100,56%,8,6,75%
+1,3,MidasRight#22350,79,Kaya the Inexorable,GMT -5,Mobboss#5574,0,2,Luke99HS#92074,2,0,Dracosinus#5200,0,2,33,78%,6,2,33%
+3,3,Mobboss#5574,79,"Rusko, Clockmaker",GMT +8,smurph#7256,2,0,MidasRight#22350,2,0,SalTheBard#4280,2,0,100,11%,6,6,100%
+0,3,Myriad58#5983,79,"Ghalta, Primal Hunger",GMT +8,Jollto#6429,1,2,Hissp#8379,0,2,artillect#8709,1,2,0,67%,8,2,25%
+1,3,OlafTheMoose#5751,79,"Kethis, the Hidden Hand",GMT +1,Scales96#6411,2,1,bratstva45 #7456,0,2,Dozer32#6928,0,2,33,67%,7,2,29%
+0,3,SalTheBard#4280,79,"Graaz, Unstoppable Juggernaut",GMT -6,LJ347#9371,0,2,Dracosinus#5200,0,2,Mobboss#5574,0,2,0,89%,6,0,0%
+2,3,Scales96#6411,79,"Emry, Lurker of the Loch",GMT +1,Kalitas#5029,2,1,OlafTheMoose#5751,1,2,AndenTheGamer#0332,2,1,67,33%,9,5,56%
+3,3,Skull (romain)#3826,79,"Kinnan, Bonder Prodigy",GMT +1,HAzor#3981,2,0,Kalitas#5029,2,1,MathemaTiGer128#0607,2,1,100,22%,8,6,75%
+0,3,smurph#7256,79,"Chevill, Bane of Monsters",GMT -5,Lordofatlantis33#26519,1,2,Mobboss#5574,0,2,LJ347#9371,0,2,0,78%,7,1,14%
+3,3,themudman#8734,79,"Raffine, Scheming Seer",GMT +1,Coft#0794,2,1,MathemaTiGer128#0607,2,0,HAzor#3981,2,1,100,22%,8,6,75%
+2,3,TitanLord#4251,79,"Teferi, Hero of Dominaria",GMT -6,LordKaiju_2#1660,1,2,LJ347#9371,2,0,Lordofatlantis33#26519,2,0,67,67%,7,5,71%
+1,3,Zenen#8628,79,"Kinnan, Bonder Prodigy",GMT -6,Dozer32#6928,1,2,Distant#5141,0,2,bratstva45 #7456,2,1,33,67%,8,3,38%
